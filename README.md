@@ -3,14 +3,6 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-        body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #e8f5e9;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-
         header {
             display: flex;
             align-items: center;
@@ -237,7 +229,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="[C:\UNESA\futurefit\logo futurefit.jpg](https://github.com/marsaazrani/futurefit/blob/main/logo%20futurefit.jpg?raw=true)" alt="FutureFit Logo" style="width: 100%; height: 100%; border-radius: 50%;">
+            <img src="[logo_futurefit.jpg]" alt="FutureFit Logo" style="width: 100%; height: 100%; border-radius: 50%;">
         </div>
         <div>
             <h1>FutureFit</h1>
