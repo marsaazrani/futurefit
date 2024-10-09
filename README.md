@@ -240,7 +240,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="C:\UNESA\futurefit\logo futurefit.jpg" alt="FutureFit Logo" style="width: 100%; height: 100%; border-radius: 50%;">
+            <img src="[C:\UNESA\futurefit\logo futurefit.jpg](https://github.com/marsaazrani/futurefit/blob/main/logo%20futurefit.jpg?raw=true)" alt="FutureFit Logo" style="width: 100%; height: 100%; border-radius: 50%;">
         </div>
         <div>
             <h1>FutureFit</h1>
